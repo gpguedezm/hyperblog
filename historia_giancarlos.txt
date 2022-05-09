@@ -4,3 +4,5 @@ En el año 2014 realicé mi primer viaje internacional a Brasil, donde entendí 
 decidí viajar a Argentina, que desde el 2015 se ha vuelto mi hogar hasta la ctualidad. 
 
 En Argentina comencé a estudiar Tecnico Superior de Analisis de Sistema, pause para poder estudiar especificamente programación.
+
+Para el día de hoy, 09-05-2022, estoy estudiando Git y Github en la plataforma digital de Platzi.
